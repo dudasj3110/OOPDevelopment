@@ -29,7 +29,7 @@ public class Triangle extends AbstractShape {
 	@Override
 	public int getArea() {
 		// TODO Auto-generated method stub
-		return 0;
+		return (int)((base* height)/2);
 	}
 
 }
