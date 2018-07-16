@@ -4,6 +4,7 @@ import info.superjava.AbstractShape;
 
 public class Circle extends AbstractShape {
 
+
 	private int radius;
 
 	public int getRadius() {
