@@ -10,7 +10,6 @@ public class AppRunner {
 
 	private static Logger logger = Logger.getLogger(AppRunner.class.getName());
 	
-	
 	public static void main(String[] args) {
 		
 		Circle circle = new Circle();
